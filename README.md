@@ -14,3 +14,10 @@
 - HELLO
   
 1.hi~
+***
+<img src="imgs/../img/img2.png">
+
+***
+
+
+
